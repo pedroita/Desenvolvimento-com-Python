@@ -1,2 +1,2 @@
-# Desenvolvimento-com-Python
-Nesse repositório você ira encontra conteúdo sobre Datac Science  e outros conceitos de python
+# Desenvolvimento com python
+Coloquei nesse repositorio alguns codigo feito em python, com base em aulas de analise de dados e um livro de  introdução a analise de dados
